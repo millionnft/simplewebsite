@@ -5,6 +5,6 @@ import "@styles/global.scss";
 import type { AppProps } from "next/app";
 
 // Export application
-export default function LootRNG({ Component, pageProps }: AppProps) {
+export default function MillionRNG({ Component, pageProps }: AppProps) {
   return <Component {...pageProps} />;
 }

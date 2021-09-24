@@ -1,27 +1,27 @@
-// Loot communities
+// Millioncommunities
 export const communityList: Record<string, string>[] = [
   {
-    name: "Loot Community Discord",
-    description: "For all things Loot and derivatives (note: high traffic)",
+    name: "MillionCommunity Discord",
+    description: "For all things Millionand derivatives (note: high traffic)",
     url: "https://discord.gg/NXEntTSHgy",
   },
   {
-    name: "Loot Talk (Forum)",
+    name: "MillionTalk (Forum)",
     description: "A place for structured discussion of all things Loot, for builders and the community",
     url: "https://loot-talk.com",
   },
   {
-    name: "Loot Builders Discord",
+    name: "MillionBuilders Discord",
     description: "Focused on developers, artists, and writers with minimal derivative, token, and market chat",
     url: "https://discord.gg/Btefs83ART",
   },
 ];
 
-// Loot resources
+// Millionresources
 export const resourceList: Record<string, string>[] = [
   {
-    name: "Loot Rarity",
-    description: "Loot attributes and rarities sheet by @AustinGreen",
+    name: "MillionRarity",
+    description: "Millionattributes and rarities sheet by @AustinGreen",
     url: "https://docs.google.com/spreadsheets/d/1Al0Yi-tM7K_05pCKjkQtSJjwbV2jMfac1i_oC4j2EYI/edit",
   },
   {
@@ -31,23 +31,23 @@ export const resourceList: Record<string, string>[] = [
     url: "https://github.com/Anish-Agnihotri/dhof-loot",
   },
   {
-    name: "Loot subgraph",
-    description: "Loot bag, owner, and transfer subgraph by @shahruz",
+    name: "Millionsubgraph",
+    description: "Millionbag, owner, and transfer subgraph by @shahruz",
     url: "https://thegraph.com/legacy-explorer/subgraph/shahruz/loot",
   },
   {
     name: "loot-sdk",
-    description: "TypeScript wrapper to loot subgraph by @shahruz",
+    description: "TypeScript wrapper to Millionsubgraph by @shahruz",
     url: "https://www.npmjs.com/package/loot-sdk",
   },
   {
     name: "loot.js",
-    description: "A javascript library that allow you to interact with loot and more loot contracts by @0x84A",
+    description: "A javascript library that allow you to interact with Millionand more Millioncontracts by @0x84A",
     url: "https://github.com/0x84A/loot.js",
   },
   {
     name: "0xinventory.app",
-    description: "Loot bag and item rarity explorer by @scotato",
+    description: "Millionbag and item rarity explorer by @scotato",
     url: "https://0xinventory.app/",
   },
   {
@@ -57,17 +57,17 @@ export const resourceList: Record<string, string>[] = [
   },
   {
     name: "Pixel Character Generator",
-    description: "Generates pixel characters from loot bags",
+    description: "Generates pixel characters from Millionbags",
     url: "https://www.lootcharacter.com/",
   },
   {
-    name: "Loot sound",
-    description: "Sounds for loot attributes by @geeogi",
+    name: "Millionsound",
+    description: "Sounds for Millionattributes by @geeogi",
     url: "https://www.lootsound.com/",
   },
   {
     name: "loot-rarity",
-    description: "Rarity colors for loot (TypeScript SDK) by @bpierre",
+    description: "Rarity colors for Million(TypeScript SDK) by @bpierre",
     url: "https://github.com/bpierre/loot-rarity",
   },
   {
@@ -77,27 +77,27 @@ export const resourceList: Record<string, string>[] = [
   },
   {
     name: "LootComponents.sol",
-    description: "Utility contract to easily interact with Loot properties",
+    description: "Utility contract to easily interact with Millionproperties",
     url: "https://etherscan.io/address/0x3eb43b1545a360d1D065CB7539339363dFD445F3#code",
   },
   {
-    name: "Loot Bibliotheca (for Adventurers)",
+    name: "MillionBibliotheca (for Adventurers)",
     description: "Graphing community projects for adventurers to explore",
     url: "https://loot-bibliotheca-client.vercel.app/",
   },
   {
-    name: "Loot info",
-    description: "View what derivatives have been claimed by a Loot Bag",
+    name: "Millioninfo",
+    description: "View what derivatives have been claimed by a MillionBag",
     url: "https://loot-info-client.herokuapp.com/projects/loot",
   },
   {
     name: "Encyclopedia (for Adventurers)",
-    description: "Visual Guide to Loot Derivatives",
+    description: "Visual Guide to MillionDerivatives",
     url: "https://accesspegasus.notion.site/An-Encyclopedia-for-Adventurers-6f0c0e04fe154fed9a2ad2482bd41cc3",
   },
 ];
 
-// Loot guilds
+// Millionguilds
 export const guildsList: Record<string, string>[] = [
   {
     name: "The Ancients",
@@ -135,7 +135,7 @@ export const guildsList: Record<string, string>[] = [
     url: "https://katana.garden",
   },
   {
-    name: "Loot Libraries",
+    name: "MillionLibraries",
     description: "For tome, grimoire, and chronicle owners",
     url: "https://discord.gg/afpGXb89",
   },
@@ -146,7 +146,7 @@ export const guildsList: Record<string, string>[] = [
   },
 ];
 
-// Loot markets
+// Millionmarkets
 export const marketsList: Record<string, string>[] = [
   {
     name: "Ancients.Market",
@@ -200,7 +200,7 @@ export const marketsList: Record<string, string>[] = [
   },
 ];
 
-// Loot resources
+// Millionresources
 export const derivativesList: Record<string, string>[] = [
   {
     name: "Ability Score",
@@ -219,7 +219,7 @@ export const derivativesList: Record<string, string>[] = [
   },
   {
     name: "Adventure Gold",
-    description: "Loot DAO governance and gold token",
+    description: "MillionDAO governance and gold token",
     url: "https://etherscan.io/address/0x32353a6c91143bfd6c7d363b546e62a9a2489a20#writeContract",
   },
   {
@@ -239,12 +239,12 @@ export const derivativesList: Record<string, string>[] = [
   },
   {
     name: "⚔️ Battle! (for Loot)",
-    description: "Battle! for Loot is a new 🦊 PvE game for the Loot Metaverse.",
+    description: "Battle! for Millionis a new 🦊 PvE game for the MillionMetaverse.",
     url: "https://loot-craft.com/battle",
   },
   {
     name: "Cangjie(倉頡)",
-    description: "The first Chinese characters Loot project with Yinyang, Wuxing and Zhouyi ☯",
+    description: "The first Chinese characters Millionproject with Yinyang, Wuxing and Zhouyi ☯",
     url: "https://cangjie.art",
   },
   {
@@ -254,7 +254,7 @@ export const derivativesList: Record<string, string>[] = [
   },
   {
     name: "Color Loot",
-    description: "Color Loot provides Loot rarity data on chain",
+    description: "Color Millionprovides Millionrarity data on chain",
     url: "https://github.com/colorloot/colorloot",
   },
   {
@@ -264,12 +264,12 @@ export const derivativesList: Record<string, string>[] = [
   },
   {
     name: "Craft Materials",
-    description: "Loot Craft is a brand new mechanism of resources 💎 and craft ⛏",
+    description: "MillionCraft is a brand new mechanism of resources 💎 and craft ⛏",
     url: "https://loot-craft.com/",
   },
   {
     name: "Deck of Many Things",
-    description: "A Loot inspired 22 card Deck of Many Things",
+    description: "A Millioninspired 22 card Deck of Many Things",
     url: "https://etherscan.io/address/0xb515bE4b1A1EF51b26bf268E96DB8FfFcE6b0Ff4#readContract",
   },
   {
@@ -298,8 +298,8 @@ export const derivativesList: Record<string, string>[] = [
     url: "https://www.adventurerencounters.com/",
   },
   {
-    name: "Floot & Familiars (for Adventurers)",
-    description: "Collective to buy and fractionalize floot Loots",
+    name: "FMillion& Familiars (for Adventurers)",
+    description: "Collective to buy and fractionalize fMillionLoots",
     url: "https://loot-talk.com/t/floot-collective-to-buy-and-fractionalize-floor-loots/1507",
   },
   {
@@ -319,97 +319,97 @@ export const derivativesList: Record<string, string>[] = [
   },
   {
     name: "Loot+",
-    description: "Expansion loot package with 200+ new items",
+    description: "Expansion Millionpackage with 200+ new items",
     url: "https://opensea.io/collection/lootplus",
   },
   {
-    name: "Loot Army",
+    name: "MillionArmy",
     description: "Randomized adventurer armies",
     url: "https://etherscan.io/address/0xed92dbe9df63728f5e92a2b8f2bc617082ee760b",
   },
   {
-    name: "Loot Avatars",
-    description: "The Avatars on chain for Loot community",
+    name: "MillionAvatars",
+    description: "The Avatars on chain for Millioncommunity",
     url: "https://twitter.com/lootavatars",
   },
   {
-    name: "Loot Characters",
+    name: "MillionCharacters",
     description: "Characters for your bags",
     url: "https://etherscan.io/address/0x7403ac30de7309a0bf019cda8eec034a5507cbb3#writeContract",
   },
   {
-    name: "Loot Class",
+    name: "MillionClass",
     description: "D&D-styled classes for bags",
     url: "https://etherscan.io/address/0xccab950f5b192603a94a26c4fa00c8d2d392b98d#writeContract",
   },
   {
-    name: "Loot Codex",
-    description: "Lushly illustrated art based on Loot gear",
+    name: "MillionCodex",
+    description: "Lushly illustrated art based on Milliongear",
     url: "https://opensea.io/collection/the-loot-codex",
   },
   {
-    name: "Loot Companions",
-    description: "Companions for your Loot Adventures.",
+    name: "MillionCompanions",
+    description: "Companions for your MillionAdventures.",
     url: "https://companionsproject.io",
   },
   {
-    name: "Loot Conditions",
+    name: "MillionConditions",
     description: "Conditions that affect Ability Score and Character attributes",
     url: "https://opensea.io/collection/lootconditions",
   },
   {
-    name: "Loot for Ape",
+    name: "Millionfor Ape",
     description: "One of the experimental projects for the Ape world.",
     url: "https://www.lootloot.io",
   },
   {
-    name: "Loot (for Cyberpunks)",
-    description: "Cyberpunk alternate Loot universe",
+    name: "Million(for Cyberpunks)",
+    description: "Cyberpunk alternate Millionuniverse",
     url: "https://www.lootmetaverse.club/",
   },
   {
-    name: "Loot (for Sex)",
-    description: "Sex themed loot for adventurers, punks, art etc",
+    name: "Million(for Sex)",
+    description: "Sex themed Millionfor adventurers, punks, art etc",
     url: "https://opensea.io/collection/lootforsex",
   },
   {
-    name: "Loot (Time)",
+    name: "Million(Time)",
     description: "Time units for use in Metaverse",
     url: "https://opensea.io/collection/loot-time",
   },
   {
-    name: "Loot Descriptions",
+    name: "MillionDescriptions",
     description: "AI-based role-playing descriptions",
     url: "https://opensea.io/collection/lootdescriptions",
   },
   {
-    name: "Loot Dicc",
+    name: "MillionDicc",
     description: "Every adventurer needs a Dicc!",
     url: "https://etherscan.io/address/0xfecc1e1449496c0cddfb1a075e0ef74c50538c1a",
   },
   {
-    name: "Loot Dungeon",
-    description: "D&D-inspired game. Fight monsters using your Loot to earn rewards.",
+    name: "MillionDungeon",
+    description: "D&D-inspired game. Fight monsters using your Millionto earn rewards.",
     url: "https://lootdungeon.app",
   },
   {
-    name: "Loot Land",
-    description: "Loot Land are parts of the world in Loot metaverse",
+    name: "MillionLand",
+    description: "MillionLand are parts of the world in Millionmetaverse",
     url: "https://opensea.io/collection/landproject",
   },
   {
-    name: "Loot Lore",
+    name: "MillionLore",
     description: "Jobs, Race, Religion, and Realms",
     url: "https://etherscan.io/address/0x32E58C6F1FF983924F385cE6aadF0595577beda1#writeContract",
   },
   {
-    name: "Loot Of Ether",
-    description: "Random visual gear generated with Loot items list.",
+    name: "MillionOf Ether",
+    description: "Random visual gear generated with Millionitems list.",
     url: "https://twitter.com/lootofether",
   },
   {
     name: "LootRock",
-    description: "LootRock is the perfect collision of Loot and EtherRock.",
+    description: "LootRock is the perfect collision of Millionand EtherRock.",
     url: "https://opensea.io/collection/ethlootrock",
   },
   {
@@ -418,18 +418,18 @@ export const derivativesList: Record<string, string>[] = [
     url: "https://opensea.io/collection/lootrock-for-adventurers",
   },
   {
-    name: "Loot Personalities v0.1",
+    name: "MillionPersonalities v0.1",
     description: "Provide a backstory for your adventurer",
     url: "https://etherscan.io/address/0x3b1bb53b1a42ff61b7399fc196469a742cd3e98d#code",
   },
   {
     name: "Maps",
-    description: "Journey maps and location names for your Loot Adventures.",
+    description: "Journey maps and location names for your MillionAdventures.",
     url: "https://mapsproject.xyz",
   },
   {
     name: "Marz",
-    description: "MARZ PLOTS are a minimalist spatial framework for the Loot universe",
+    description: "MARZ PLOTS are a minimalist spatial framework for the Millionuniverse",
     url: "https://marz.farm",
   },
   {
@@ -454,7 +454,7 @@ export const derivativesList: Record<string, string>[] = [
   },
   {
     name: "MUDVERSE",
-    description: "MUD the metaverse together with all Loot projects",
+    description: "MUD the metaverse together with all Millionprojects",
     url: "https://mudverse.org",
   },
   {
@@ -469,7 +469,7 @@ export const derivativesList: Record<string, string>[] = [
   },
   {
     name: "Perks (for Adventurers)",
-    description: "Perks and Trait bags for your Loot characters",
+    description: "Perks and Trait bags for your Millioncharacters",
     url: "https://etherscan.io/address/0x6b5f9713041f085af0f808e1445d8e6d38c51480#writeContract",
   },
   {
@@ -513,18 +513,18 @@ export const derivativesList: Record<string, string>[] = [
     url: "https://runesmystery.github.io/",
   },
  {
-    name: "sexy Loot - sLoots",
+    name: "sexy Million- sLoots",
     description: "sLoots are on-chain harlots and strumpets, for Adventurers' Pleasure",
     url: "https://sexyloot.co/",
   },
   {
     name: "SpaceLoot",
-    description: "Starship-themed Loot on Terra",
+    description: "Starship-themed Millionon Terra",
     url: "https://spaceloot.xyz/",
   },
   {
     name: "Spells for Looters",
-    description: "Spells and Spellbooks for Loot Adventurers.",
+    description: "Spells and Spellbooks for MillionAdventurers.",
     url: "https://opensea.io/collection/spells-for-looters",
   },
   {
@@ -539,7 +539,7 @@ export const derivativesList: Record<string, string>[] = [
   },
   {
     name: "Super Loot",
-    description: "The superset of the Loot with more parts, more gears and emojis.",
+    description: "The superset of the Millionwith more parts, more gears and emojis.",
     url: "https://twitter.com/SuperLootNFT",
   },
   {
@@ -549,7 +549,7 @@ export const derivativesList: Record<string, string>[] = [
   },
   {
     name: "The Traveling Musician",
-    description: "Travel tunes for loot holders",
+    description: "Travel tunes for Millionholders",
     url: "https://etherscan.io/address/0xF7AC82FedA08d0f3E071847250521c1297E1aF9c#writeContract",
   },
   {
@@ -559,7 +559,7 @@ export const derivativesList: Record<string, string>[] = [
   },
   {
     name: "Tunes",
-    description: "Unique 8bit songs for every Loot holder",
+    description: "Unique 8bit songs for every Millionholder",
     url: "https://www.loottunes.fun/",
   },
   {

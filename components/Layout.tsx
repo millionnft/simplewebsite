@@ -88,7 +88,7 @@ function Header() {
   // All links
   const links = [
     { name: "FAQ", path: "/faq" },
-    { name: "Resources", path: "/resources" },
+    // { name: "Resources", path: "/resources" },
   ];
 
   return (
@@ -138,7 +138,7 @@ function Footer(): ReactElement {
       <p>
         This website is{" "}
         <a
-          href="https://github.com/millionnftproject/website"
+          href="https://github.com/millionnft/simplewebsite"
           target="_blank"
           rel="noopener noreferrer"
         >

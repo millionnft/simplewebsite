@@ -13,114 +13,57 @@ export default function FAQ(): ReactElement {
       <div className={styles.faq}>
         <h2>Frequently Asked Questions</h2>
 
-        {/* What is loot ? */}
+        {/* What is million ? */}
         <div className={styles.faq__item}>
-          <h3>What is Loot?</h3>
+          <h3>What is Million?</h3>
           <p>
-            Loot is a collection of 8,000 unique bags of adventurer gear,
+            Million is a collection of 1,000,000 unique positions of pixel,
             originally released by{" "}
             <a
-              href="https://twitter.com/dhof/status/1431316631934967815"
+              href="https://twitter.com/MillionNFTApp/status/1441236441506336778"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Dom Hofmann
+              MillionNFT Team
             </a>
-            . At release, anyone could claim loot bags for just gas, and all
-            bags were claimed in under 4 hours. Each loot bag contains 8 items:
-            a piece for an adventurer&apos;s chest, foot, hand, head, neck, ring,
-            waist, and weapon.
+            . At release, anyone could claim million pixel for just gas. Each pixel contains a coordinate (x, y).
           </p>
           <p>
-            Loot is an unaudited project. Bags #1 to #7777 were claimable by
-            anyone and #7778 to #8000 are currently reserved for the contract
+            Million is an unaudited project. Pixels #200001 to #999999 were claimable by
+            anyone and #0 to #200000 are currently reserved for the contract
             deployer.
           </p>
         </div>
 
-        {/* Why is loot special? */}
+        {/* Why is million special? */}
         <div className={styles.faq__item}>
-          <h3>Why is loot special?</h3>
+          <h3>Why is million special?</h3>
           <p>
-            Loot is unique—the first project of its kind. With no company, art,
-            team, or attributes, Loot makes it impossible to gate-keep any
-            creative decisions (h/t{" "}
-            <a
-              href="https://twitter.com/john_c_palmer/status/1432606797186179072?s=20"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              @john_c_palmer
-            </a>
-            ).
+            Million is unique—the first project of its kind. 
           </p>
           <p>
-            Loot is the unfiltered, uncensorable building block for stories,
-            experiences, games, and more, in the hands of the community, at no
-            cost. Loot pursues complete decentralization from day one.
+          Million is the unfiltered, uncensorable building block for ads, games, and more, in the hands of the community, at no cost. Million pursues complete decentralization from day one.
           </p>
         </div>
 
-        {/* Can I build with loot? */}
+        {/* Can I build with million? */}
         <div className={styles.faq__item}>
-          <h3>Can I build with Loot?</h3>
+          <h3>Can I build with Million?</h3>
           <p>
-            Yes, you are free to use Loot in any way you want. For inspiration,
-            see existing{" "}
-            <Link href="/resources">
-              <a>resources</a>
-            </Link>{" "}
-            put together by the community.
+            Yes, you are free to use Million in any way you want. 
           </p>
         </div>
 
-        {/* Am I priced out of loot? */}
+        {/* How do I value million nft? */}
         <div className={styles.faq__item}>
-          <h3>Am I priced out of loot?</h3>
+          <h3>How do I value million nft?</h3>
           <p>
-            Not at all. Through{" "}
-            <Link href="/synthloot">
-              Synthetic Loot
-            </Link>
-            , all addresses have access to virtual Loot that developers can
-            integrate into the Loot projects they build.
+          They say that value is always in the eye of the beholder. Million is no different, with no explicit rarities specified at launch. How you value a million nft is up to you.
           </p>
           <p>
-            Thus, anyone with an Ethereum wallet is allowed to participate in
-            the ecosystem, while still maintaining distinction between original
-            Loot and synthetics.
+          Still, the community has begun to devise many mechanisms by which to assess the rarity of million and their items. Some of these include the position of pixel.
           </p>
-        </div>
-
-        {/* How do I value loot bags? */}
-        <div className={styles.faq__item}>
-          <h3>How do I value Loot bags?</h3>
-          <p>
-            They say that value is always in the eye of the beholder. Loot is no
-            different, with no explicit rarities specified at launch. How you
-            value a loot bag is up to you.
-          </p>
-          <p>
-            Still, the community has begun to devise many mechanisms by which to
-            assess the rarity of bags and their items. Some of these include{" "}
-            <a
-              href="https://github.com/Anish-Agnihotri/dhof-loot/blob/master/output/rare.json"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              rarity by occurence
-            </a>{" "}
-            or{" "}
-            <a
-              href="https://0xinventory.app/help"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              item score
-            </a>
-            .
-          </p>
-          <p>Remember, use your own discretion when valuing a loot bag.</p>
+          <p>Remember, use your own discretion when valuing a million nft.</p>
         </div>
       </div>
     </Layout>
